@@ -55,5 +55,3 @@ if __name__ == "_main_":
 
 
 
-    # 
-    https://github.com/aniii77/Projects.git
